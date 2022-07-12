@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Linkedin: wilsonsergio2500](https://img.shields.io/badge/-Sergio%20Wilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonsergio2500/)](https://www.linkedin.com/in/wilsonsergio2500/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sergiowilson)
+![](https://visitor-badge.laobi.icu/badge?page_id=wilsonsergio2500)
+
 <!--
 **wilsonsergio2500/wilsonsergio2500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
