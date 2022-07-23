@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I am Sergio</h1>
 
-[![Linkedin: wilsonsergio2500](https://img.shields.io/badge/-Sergio%20Wilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonsergio2500/)](https://www.linkedin.com/in/wilsonsergio2500/)
+[![Linkedin: wilsonsergio2500](https://img.shields.io/badge/-Sergio%20Wilson-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonsergio2500/)](https://www.linkedin.com/in/wilsonsergio2500/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sergiowilson)
 ![](https://visitor-badge.laobi.icu/badge?page_id=wilsonsergio2500)
 
