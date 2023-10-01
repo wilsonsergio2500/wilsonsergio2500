@@ -2,7 +2,7 @@
 
 [![Linkedin: wilsonsergio2500](https://img.shields.io/badge/-Sergio%20Wilson-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonsergio2500/)](https://www.linkedin.com/in/wilsonsergio2500/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sergiowilson)
-![](https://visitor-badge.laobi.icu/badge?page_id=wilsonsergio2500)
+![](https://vbr.wocr.tk/badge?page_id=wilsonsergio2500&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717)
 
 ### 🛠️ Dev	Profile
 <p align="center">
